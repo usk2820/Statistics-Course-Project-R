@@ -1,6 +1,6 @@
 # R-course project
 
-R programming competition [Moderate]: A clinic has three doctors. Patients come
+R programming competition : A clinic has three doctors. Patients come
 into the clinic at random, starting at 9 a.m. The time after opening at which the first
 patient appears follows an exponential distribution with expectation of 10 minutes and
 then, after each patient arrives, the waiting time until the next patient is independently
