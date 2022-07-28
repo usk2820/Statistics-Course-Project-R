@@ -1,4 +1,4 @@
-# R-course project
+# statistics-course project
 
 R programming competition : A clinic has three doctors. Patients come
 into the clinic at random, starting at 9 a.m. The time after opening at which the first
